@@ -47,15 +47,43 @@ A train booking-themed project showcasing a booking interface and frontend devel
 
 ## 🛠️ Skills & Technologies
 
-**Languages:** Java, JavaScript, SQL
+### 💻 Programming Languages
 
-**Backend:** Spring Boot, Spring Data JPA, Hibernate, REST APIs, Node.js, Express.js
+* Java
+* JavaScript
+* SQL
 
-**Frontend:** HTML, CSS, React
+### ⚙️ Backend Development
 
-**Databases:** PostgreSQL, MongoDB
+* Spring Boot
+* Spring Data JPA
+* Hibernate
+* REST APIs
+* Node.js
+* Express.js
 
-**Tools:** Git, GitHub, Maven, Postman, IntelliJ IDEA, VS Code
+### 🎨 Frontend Development
+
+* HTML
+* CSS
+* React
+
+### 🗄️ Databases & Tools
+
+* PostgreSQL
+* MongoDB
+* Git & GitHub
+* Maven
+* Postman
+* IntelliJ IDEA
+* VS Code
+
+### 📚 Currently Learning
+
+* Data Structures & Algorithms
+* System Design
+* Full Stack Development
+
 
 ## 📈 Coding & Profiles
 
